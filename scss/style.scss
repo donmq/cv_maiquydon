@@ -315,7 +315,7 @@ h1, h2, h3, h4, h5,
 			transition: .3s all ease-out;	
 		}
 
-		.navbar-brand {
+		.collapse {
 			color: $black;
 			padding-top: 1rem;
 			padding-bottom: 1rem;
@@ -1148,7 +1148,7 @@ textarea.form-control {
 }
 
 .ftco-animate {
-	opacity: 0;
+	opacity: 1;
 	visibility: hidden;
 }
 
